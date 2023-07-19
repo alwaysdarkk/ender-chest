@@ -1,0 +1,4 @@
+name: ender-chest
+version: '1.0.0'
+main: com.github.alwaysdarkk.enderchest.EnderChestPlugin
+author: alwaysdarkk
