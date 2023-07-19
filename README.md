@@ -10,5 +10,5 @@ Plugin simples de EnderChest para servidores que querem dar como vantagem a joga
 O plugin em si não há dependência de plugins externos, porém, é necessário que a máquina em que o plugin rodar tenha MongoDB. (https://www.mongodb.com/)
 
 # Permissões
-enderchest.admin - Permissões administrativar. (Abrir o baú de outro de player, e utilizar o /ec toggle)
+enderchest.admin - Permissões administrativas. (Abrir o baú de outro de player, e utilizar o /ec toggle)
 enderchest.<número de linhas> - Permissões para expandir o baú (Todos começam com 3 linhas, o limite de linhas é 6)
